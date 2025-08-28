@@ -12,7 +12,7 @@ def load_bible_data():
         return get_fallback_data()
 
 def get_fallback_data():
-    """Fallback data if JSON file is missing - keep this minimal"""
+    """Minimal fallback data if JSON file is missing"""
     return {
         "books": {
             "Genesis": {
@@ -22,6 +22,18 @@ def get_fallback_data():
                             "1": {
                                 "text": "In the beginning, God created the heavens and the earth.",
                                 "simplified_example": "Before anything else existed, God made the entire universe."
+                            }
+                        }
+                    }
+                }
+            },
+            "John": {
+                "chapters": {
+                    "3": {
+                        "verses": {
+                            "16": {
+                                "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+                                "simplified_example": "God loved people so much that He sent Jesus so that anyone who believes in Him can live forever with God."
                             }
                         }
                     }
