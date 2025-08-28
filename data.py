@@ -6,13 +6,21 @@ import streamlit as st
 def load_bible_data():
     try:
         with open('bible_data.json', 'r', encoding='utf-8') as file:
-            return json.load(file)
+            data = json.load(file)
+            st.success("Bible data loaded successfully!")
+            return data
     except FileNotFoundError:
-        st.error("Bible data file not found. Using minimal sample data.")
+        st.error("Bible data file not found. Using fallback data.")
+        return get_fallback_data()
+    except json.JSONDecodeError as e:
+        st.error(f"Error parsing JSON file: {e}. Using fallback data.")
+        return get_fallback_data()
+    except Exception as e:
+        st.error(f"Unexpected error loading Bible data: {e}. Using fallback data.")
         return get_fallback_data()
 
 def get_fallback_data():
-    """Minimal fallback data if JSON file is missing"""
+    """Minimal fallback data if JSON file is missing or invalid"""
     return {
         "books": {
             "Genesis": {
@@ -26,18 +34,6 @@ def get_fallback_data():
                         }
                     }
                 }
-            },
-            "John": {
-                "chapters": {
-                    "3": {
-                        "verses": {
-                            "16": {
-                                "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
-                                "simplified_example": "God loved people so much that He sent Jesus so that anyone who believes in Him can live forever with God."
-                            }
-                        }
-                    }
-                }
             }
         }
     }
@@ -45,6 +41,7 @@ def get_fallback_data():
 # Load the data once
 BIBLE_DATA = load_bible_data()
 
+# Rest of your functions remain the same...
 def get_books():
     """Return sorted list of available books"""
     if "books" in BIBLE_DATA:
