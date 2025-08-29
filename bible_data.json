@@ -64,3 +64,699 @@
     }
   }
 }
+{
+  "metadata": {
+    "version": "ESV",
+    "last_updated": "2023-12-01"
+  },
+  "books": {
+    "Genesis": {
+      "chapters": {
+        "1": {
+          "verses": {
+            "1": {
+              "text": "In the beginning, God created the heavens and the earth.",
+              "simplified_example": "Before anything else existed, God made the entire universe."
+            },
+            "26": {
+              "text": "Then God said, 'Let us make man in our image, after our likeness.'",
+              "simplified_example": "God decided to create humans to be like Him, to reflect His character and nature."
+            },
+            "27": {
+              "text": "So God created man in his own image, in the image of God he created him; male and female he created them.",
+              "simplified_example": "So God made humans to be like Himself—He created both men and women in His image."
+            }
+          }
+        },
+        "2": {
+          "verses": {
+            "7": {
+              "text": "Then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.",
+              "simplified_example": "God formed the first man from the dust of the earth and gave him life by breathing into him, making him a living person."
+            },
+            "18": {
+              "text": "Then the Lord God said, 'It is not good that the man should be alone; I will make him a helper fit for him.'",
+              "simplified_example": "God said, 'It's not good for the man to be alone. I will create a companion who is just right for him.'"
+            }
+          }
+        },
+        "12": {
+          "verses": {
+            "1": {
+              "text": "Now the Lord said to Abram, 'Go from your country and your kindred and your father's house to the land that I will show you.'",
+              "simplified_example": "God told Abram to leave his homeland and family and go to a new land that God would show him."
+            },
+            "2": {
+              "text": "And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.",
+              "simplified_example": "God promised to make Abram into a great nation, bless him, make him famous, and use him to bless others."
+            }
+          }
+        }
+      }
+    },
+    "Exodus": {
+      "chapters": {
+        "3": {
+          "verses": {
+            "14": {
+              "text": "God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: I AM has sent me to you.'",
+              "simplified_example": "God told Moses that His name is 'I AM'—the eternal, self-existing God who always has been and always will be."
+            }
+          }
+        },
+        "14": {
+          "verses": {
+            "14": {
+              "text": "The Lord will fight for you, and you have only to be silent.",
+              "simplified_example": "Moses told the Israelites that God would protect them and fight their battles—they just needed to trust Him."
+            }
+          }
+        },
+        "20": {
+          "verses": {
+            "1": {
+              "text": "And God spoke all these words, saying,",
+              "simplified_example": "God began speaking these important commandments to His people."
+            },
+            "3": {
+              "text": "You shall have no other gods before me.",
+              "simplified_example": "Put God first in your life—don't let anything or anyone become more important than Him."
+            },
+            "7": {
+              "text": "You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain.",
+              "simplified_example": "Always respect God's name and don't use it carelessly or disrespectfully."
+            },
+            "8": {
+              "text": "Remember the Sabbath day, to keep it holy.",
+              "simplified_example": "Set aside one day each week to rest and focus on God."
+            },
+            "12": {
+              "text": "Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you.",
+              "simplified_example": "Show respect and care for your parents, and God will bless you with a long, good life."
+            },
+            "13": {
+              "text": "You shall not murder.",
+              "simplified_example": "Don't take another person's life."
+            },
+            "14": {
+              "text": "You shall not commit adultery.",
+              "simplified_example": "Be faithful in marriage and don't have sexual relationships outside of marriage."
+            },
+            "15": {
+              "text": "You shall not steal.",
+              "simplified_example": "Don't take anything that doesn't belong to you."
+            },
+            "16": {
+              "text": "You shall not bear false witness against your neighbor.",
+              "simplified_example": "Always tell the truth about others—don't lie or spread false stories."
+            },
+            "17": {
+              "text": "You shall not covet your neighbor's house; you shall not covet your neighbor's wife, or his male servant, or his female servant, or his ox, or his donkey, or anything that is your neighbor's.",
+              "simplified_example": "Don't be jealous of what other people have—be content with what God has given you."
+            }
+          }
+        }
+      }
+    },
+    "Deuteronomy": {
+      "chapters": {
+        "6": {
+          "verses": {
+            "4": {
+              "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+              "simplified_example": "Listen, Israel: The Lord is our God, and He alone is God."
+            },
+            "5": {
+              "text": "You shall love the Lord your God with all your heart and with all your soul and with all your might.",
+              "simplified_example": "Love God completely—with all your heart, all your being, and all your strength."
+            }
+          }
+        },
+        "31": {
+          "verses": {
+            "6": {
+              "text": "Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. He will not leave you or forsake you.",
+              "simplified_example": "Be brave and don't be afraid, because God is with you and will never abandon you."
+            }
+          }
+        }
+      }
+    },
+    "Joshua": {
+      "chapters": {
+        "1": {
+          "verses": {
+            "9": {
+              "text": "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.",
+              "simplified_example": "God commands us to be brave and not fearful because He promises to be with us no matter where we go."
+            }
+          }
+        }
+      }
+    },
+    "Psalm": {
+      "1": {
+        "verses": {
+          "1": {
+            "text": "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;",
+            "simplified_example": "Happy are those who don't follow bad advice, hang out with people who do wrong things, or join those who mock others."
+          },
+          "2": {
+            "text": "but his delight is in the law of the Lord, and on his law he meditates day and night.",
+            "simplified_example": "Instead, they find joy in God's teachings and think about them constantly."
+          }
+        }
+      },
+      "19": {
+        "verses": {
+          "1": {
+            "text": "The heavens declare the glory of God, and the sky above proclaims his handiwork.",
+            "simplified_example": "The sky and stars show how amazing God is—they display His incredible creativity."
+          }
+        }
+      },
+      "23": {
+        "verses": {
+          "1": {
+            "text": "The Lord is my shepherd; I shall not want.",
+            "simplified_example": "The Lord takes care of all my needs, just like a shepherd cares for his sheep."
+          },
+          "4": {
+            "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+            "simplified_example": "Even when I go through really hard and scary times, I won't be afraid because I know God is with me protecting and comforting me."
+          },
+          "6": {
+            "text": "Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.",
+            "simplified_example": "I know God's kindness and love will be with me every day of my life, and I'll live with Him forever."
+          }
+        }
+      },
+      "27": {
+        "verses": {
+          "1": {
+            "text": "The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?",
+            "simplified_example": "God is my protection and rescue—why should I be afraid of anyone? He keeps me safe."
+          }
+        }
+      },
+      "46": {
+        "verses": {
+          "1": {
+            "text": "God is our refuge and strength, a very present help in trouble.",
+            "simplified_example": "God is our safe place and source of strength, always ready to help when we're in trouble."
+          },
+          "10": {
+            "text": "Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!",
+            "simplified_example": "Stop striving and remember that I am God. I will be honored by all people everywhere."
+          }
+        }
+      },
+      "100": {
+        "verses": {
+          "1": {
+            "text": "Make a joyful noise to the Lord, all the earth!",
+            "simplified_example": "Everyone everywhere, shout happily to God!"
+          },
+          "2": {
+            "text": "Serve the Lord with gladness! Come into his presence with singing!",
+            "simplified_example": "Worship God with joy! Come before Him with songs!"
+          },
+          "3": {
+            "text": "Know that the Lord, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture.",
+            "simplified_example": "Remember that the Lord is God! He made us, and we belong to Him—we're His people, like sheep in His care."
+          }
+        }
+      },
+      "119": {
+        "verses": {
+          "9": {
+            "text": "How can a young man keep his way pure? By guarding it according to your word.",
+            "simplified_example": "How can young people live pure lives? By following God's teachings."
+          },
+          "11": {
+            "text": "I have stored up your word in my heart, that I might not sin against you.",
+            "simplified_example": "I've hidden God's word in my heart so I won't sin against Him."
+          },
+          "105": {
+            "text": "Your word is a lamp to my feet and a light to my path.",
+            "simplified_example": "The Bible shows me how to live my life and make good decisions, like a flashlight helps me see where to walk in the dark."
+          }
+        }
+      },
+      "121": {
+        "verses": {
+          "1": {
+            "text": "I lift up my eyes to the hills. From where does my help come?",
+            "simplified_example": "I look up to the mountains—where will my help come from?"
+          },
+          "2": {
+            "text": "My help comes from the Lord, who made heaven and earth.",
+            "simplified_example": "My help comes from God, who created everything in heaven and on earth."
+          }
+        }
+      },
+      "139": {
+        "verses": {
+          "14": {
+            "text": "I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.",
+            "simplified_example": "I thank You because I'm amazingly and wonderfully made! Your creations are incredible, and I know this deeply."
+          }
+        }
+      }
+    },
+    "Proverbs": {
+      "3": {
+        "verses": {
+          "5": {
+            "text": "Trust in the Lord with all your heart, and do not lean on your own understanding.",
+            "simplified_example": "Trust God completely instead of relying only on your own thinking."
+          },
+          "6": {
+            "text": "In all your ways acknowledge him, and he will make straight your paths.",
+            "simplified_example": "Include God in every part of your life, and He will guide you in the right direction."
+          }
+        }
+      },
+      "4": {
+        "verses": {
+          "23": {
+            "text": "Keep your heart with all vigilance, for from it flow the springs of life.",
+            "simplified_example": "Guard your heart carefully because it influences everything else in your life."
+          }
+        }
+      },
+      "16": {
+        "verses": {
+          "3": {
+            "text": "Commit your work to the Lord, and your plans will be established.",
+            "simplified_example": "Dedicate your work to God, and He will help your plans succeed."
+          },
+          "9": {
+            "text": "The heart of man plans his way, but the Lord establishes his steps.",
+            "simplified_example": "People make their own plans, but God ultimately directs their paths."
+          }
+        }
+      },
+      "18": {
+        "verses": {
+          "10": {
+            "text": "The name of the Lord is a strong tower; the righteous man runs into it and is safe.",
+            "simplified_example": "God's name is like a strong fortress—good people run to Him for protection and safety."
+          }
+        }
+      },
+      "22": {
+        "verses": {
+          "6": {
+            "text": "Train up a child in the way he should go; even when he is old he will not depart from it.",
+            "simplified_example": "Teach children the right way to live, and they'll remember those lessons even when they're grown."
+          }
+        }
+      }
+    },
+    "Isaiah": {
+      "9": {
+        "verses": {
+          "6": {
+            "text": "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.",
+            "simplified_example": "A special child is born to us—a son given to save us. He will rule with wisdom and be called Amazing Advisor, Powerful God, Eternal Father, and Prince of Peace."
+          }
+        }
+      },
+      "26": {
+        "verses": {
+          "3": {
+            "text": "You keep him in perfect peace whose mind is stayed on you, because he trusts in you.",
+            "simplified_example": "God gives complete peace to those who keep their thoughts focused on Him and trust in Him."
+          }
+        }
+      },
+      "40": {
+        "verses": {
+          "31": {
+            "text": "But they who wait for the Lord shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.",
+            "simplified_example": "People who trust in God and wait for His timing will receive new energy and strength. They won't get tired but will keep going with God's power."
+          }
+        }
+      },
+      "41": {
+        "verses": {
+          "10": {
+            "text": "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
+            "simplified_example": "Don't be afraid because I am with you. Don't be discouraged because I am your God. I will make you strong, help you, and support you with my power."
+          }
+        }
+      },
+      "53": {
+        "verses": {
+          "5": {
+            "text": "But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.",
+            "simplified_example": "He was wounded for our wrongdoings and crushed for our sins. He was punished to bring us peace, and we are healed by His injuries."
+          }
+        }
+      },
+      "55": {
+        "verses": {
+          "8": {
+            "text": "For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord.",
+            "simplified_example": "God says, 'My thoughts are not like your thoughts, and my ways are different from your ways.'"
+          },
+          "9": {
+            "text": "For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts.",
+            "simplified_example": "Just as the sky is higher than the earth, my ways and thoughts are higher than yours."
+          }
+        }
+      }
+    },
+    "Jeremiah": {
+      "29": {
+        "verses": {
+          "11": {
+            "text": "For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope.",
+            "simplified_example": "God says, 'I have good plans for you—plans to prosper you and not harm you, plans to give you hope and a future.'"
+          },
+          "13": {
+            "text": "You will seek me and find me, when you seek me with all your heart.",
+            "simplified_example": "When you search for me with all your heart, you will find me."
+          }
+        }
+      }
+    },
+    "Lamentations": {
+      "3": {
+        "verses": {
+          "22": {
+            "text": "The steadfast love of the Lord never ceases; his mercies never come to an end;",
+            "simplified_example": "The Lord's faithful love never ends; His mercies never stop;"
+          },
+          "23": {
+            "text": "they are new every morning; great is your faithfulness.",
+            "simplified_example": "they are new every single morning. Lord, you are so faithful!"
+          }
+        }
+      }
+    },
+    "Matthew": {
+      "5": {
+        "verses": {
+          "3": {
+            "text": "Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
+            "simplified_example": "God blesses people who realize they need Him and depend on Him completely."
+          },
+          "4": {
+            "text": "Blessed are those who mourn, for they shall be comforted.",
+            "simplified_example": "God comforts and helps those who are sad or grieving."
+          },
+          "5": {
+            "text": "Blessed are the meek, for they shall inherit the earth.",
+            "simplified_example": "God rewards people who are gentle and humble rather than proud and forceful."
+          },
+          "6": {
+            "text": "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.",
+            "simplified_example": "God satisfies those who desperately want to do what is right and good."
+          },
+          "7": {
+            "text": "Blessed are the merciful, for they shall receive mercy.",
+            "simplified_example": "God shows mercy to those who are merciful to others."
+          },
+          "8": {
+            "text": "Blessed are the pure in heart, for they shall see God.",
+            "simplified_example": "God allows those with pure hearts and motives to know Him personally."
+          },
+          "9": {
+            "text": "Blessed are the peacemakers, for they shall be called sons of God.",
+            "simplified_example": "God calls His own children those who work to make peace between people."
+          },
+          "10": {
+            "text": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.",
+            "simplified_example": "God blesses those who are mistreated for doing what's right—the kingdom of heaven belongs to them."
+          },
+          "13": {
+            "text": "You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet.",
+            "simplified_example": "You are like salt for the earth. But if salt loses its flavor, how can it be made salty again? It becomes useless and gets thrown away."
+          },
+          "14": {
+            "text": "You are the light of the world. A city set on a hill cannot be hidden.",
+            "simplified_example": "You are like light for the world. A city on a hill can't be hidden."
+          },
+          "15": {
+            "text": "Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house.",
+            "simplified_example": "No one lights a lamp and then puts it under a basket. Instead, they put it on a stand where it gives light to everyone."
+          },
+          "16": {
+            "text": "In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.",
+            "simplified_example": "In the same way, let your good deeds shine out for all to see, so that everyone will praise your heavenly Father."
+          },
+          "43": {
+            "text": "You have heard that it was said, 'You shall love your neighbor and hate your enemy.'",
+            "simplified_example": "You have heard the saying, 'Love your friends and hate your enemies.'"
+          },
+          "44": {
+            "text": "But I say to you, Love your enemies and pray for those who persecute you,",
+            "simplified_example": "But I tell you, love your enemies and pray for those who mistreat you."
+          }
+        }
+      },
+      "6": {
+        "verses": {
+          "9": {
+            "text": "Pray then like this: 'Our Father in heaven, hallowed be your name.'",
+            "simplified_example": "This is how you should pray: 'Our Father in heaven, may your name be honored.'"
+          },
+          "10": {
+            "text": "Your kingdom come, your will be done, on earth as it is in heaven.",
+            "simplified_example": "May your kingdom come and your will be done on earth just as it is in heaven."
+          },
+          "11": {
+            "text": "Give us this day our daily bread,",
+            "simplified_example": "Give us today the food we need for today."
+          },
+          "12": {
+            "text": "and forgive us our debts, as we also have forgiven our debtors.",
+            "simplified_example": "Forgive us for our wrongs, just as we forgive those who have wronged us."
+          },
+          "13": {
+            "text": "And lead us not into temptation, but deliver us from evil.",
+            "simplified_example": "Don't let us yield to temptation, but rescue us from the evil one."
+          },
+          "33": {
+            "text": "But seek first the kingdom of God and his righteousness, and all these things will be added to you.",
+            "simplified_example": "Make knowing God and living His way your top priority, and He will take care of everything else you need."
+          }
+        }
+      },
+      "7": {
+        "verses": {
+          "7": {
+            "text": "Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.",
+            "simplified_example": "Keep asking, and you will receive. Keep searching, and you will find. Keep knocking, and the door will be opened for you."
+          },
+          "12": {
+            "text": "So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.",
+            "simplified_example": "Treat others the way you want them to treat you. This is the essence of all that is taught in the Law and the Prophets."
+          }
+        }
+      },
+      "11": {
+        "verses": {
+          "28": {
+            "text": "Come to me, all who labor and are heavy laden, and I will give you rest.",
+            "simplified_example": "If you're tired and carrying heavy burdens, come to Jesus and He will give you rest and peace."
+          },
+          "29": {
+            "text": "Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls.",
+            "simplified_example": "Let me teach you because I am humble and gentle at heart, and you will find rest for your souls."
+          },
+          "30": {
+            "text": "For my yoke is easy, and my burden is light.",
+            "simplified_example": "For my yoke is easy to bear, and the burden I give you is light."
+          }
+        }
+      },
+      "16": {
+        "verses": {
+          "26": {
+            "text": "For what will it profit a man if he gains the whole world and forfeits his soul? Or what shall a man give in return for his soul?",
+            "simplified_example": "What good is it if someone gains the whole world but loses their soul? Is anything worth more than your soul?"
+          }
+        }
+      },
+      "22": {
+        "verses": {
+          "37": {
+            "text": "And he said to him, 'You shall love the Lord your God with all your heart and with all your soul and with all your mind.'",
+            "simplified_example": "Jesus replied, 'You must love the Lord your God with all your heart, all your soul, and all your mind.'"
+          },
+          "38": {
+            "text": "This is the great and first commandment.",
+            "simplified_example": "This is the first and greatest commandment."
+          },
+          "39": {
+            "text": "And a second is like it: You shall love your neighbor as yourself.",
+            "simplified_example": "A second is equally important: 'Love your neighbor as yourself.'"
+          }
+        }
+      },
+      "28": {
+        "verses": {
+          "19": {
+            "text": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+            "simplified_example": "Go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."
+          },
+          "20": {
+            "text": "teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.",
+            "simplified_example": "Teach these new disciples to obey all the commands I have given you. And be sure of this: I am with you always, even to the end of the age."
+          }
+        }
+      }
+    },
+    "Mark": {
+      "10": {
+        "verses": {
+          "27": {
+            "text": "Jesus looked at them and said, 'With man this is impossible, but not with God; all things are possible with God.'",
+            "simplified_example": "Jesus looked at them and said, 'This is impossible for people, but nothing is impossible for God.'"
+          }
+        }
+      },
+      "12": {
+        "verses": {
+          "30": {
+            "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.'",
+            "simplified_example": "You must love the Lord your God with all your heart, all your soul, all your mind, and all your strength."
+          },
+          "31": {
+            "text": "The second is this: 'You shall love your neighbor as yourself.' There is no other commandment greater than these.",
+            "simplified_example": "The second is equally important: 'Love your neighbor as yourself.' No other commandment is greater than these."
+          }
+        }
+      }
+    },
+    "Luke": {
+      "6": {
+        "verses": {
+          "31": {
+            "text": "And as you wish that others would do to you, do so to them.",
+            "simplified_example": "Do to others as you would like them to do to you."
+          }
+        }
+      },
+      "12": {
+        "verses": {
+          "34": {
+            "text": "For where your treasure is, there will your heart be also.",
+            "simplified_example": "Wherever your treasure is, there the desires of your heart will also be."
+          }
+        }
+      },
+      "15": {
+        "verses": {
+          "7": {
+            "text": "Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance.",
+            "simplified_example": "In the same way, there is more joy in heaven over one lost sinner who repents and returns to God than over ninety-nine others who are righteous and haven't strayed away!"
+          }
+        }
+      }
+    },
+    "John": {
+      "1": {
+        "verses": {
+          "1": {
+            "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+            "simplified_example": "In the beginning, before anything was created, Jesus (the Word) already existed. He was with God, and He was God."
+          },
+          "14": {
+            "text": "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.",
+            "simplified_example": "The Word became human and made His home among us. He was full of unfailing love and faithfulness. And we have seen His glory, the glory of the Father's one and only Son."
+          }
+        }
+      },
+      "3": {
+        "verses": {
+          "16": {
+            "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+            "simplified_example": "God loved people so much that He sent His only Son Jesus. Anyone who believes in Him will live forever with God instead of dying separated from Him."
+          },
+          "17": {
+            "text": "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.",
+            "simplified_example": "God sent His Son into the world not to judge the world, but to save the world through Him."
+          }
+        }
+      },
+      "8": {
+        "verses": {
+          "12": {
+            "text": "Again Jesus spoke to them, saying, 'I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.'",
+            "simplified_example": "Jesus said, 'I am the light of the world. If you follow me, you won't have to walk in darkness, because you will have the light that leads to life.'"
+          },
+          "32": {
+            "text": "And you will know the truth, and the truth will set you free.",
+            "simplified_example": "And you will know the truth, and the truth will set you free."
+          }
+        }
+      },
+      "10": {
+        "verses": {
+          "10": {
+            "text": "The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.",
+            "simplified_example": "The thief's purpose is to steal and kill and destroy. My purpose is to give them a rich and satisfying life."
+          }
+        }
+      },
+      "11": {
+        "verses": {
+          "25": {
+            "text": "Jesus said to her, 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live,'",
+            "simplified_example": "Jesus told her, 'I am the resurrection and the life. Anyone who believes in me will live, even after dying.'"
+          }
+        }
+      },
+      "14": {
+        "verses": {
+          "6": {
+            "text": "Jesus said to him, 'I am the way, and the truth, and the life. No one comes to the Father except through me.'",
+            "simplified_example": "Jesus told him, 'I am the way, the truth, and the life. No one can come to the Father except through me.'"
+          },
+          "27": {
+            "text": "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid.",
+            "simplified_example": "I am leaving you with a gift—peace of mind and heart. And the peace I give is a gift the world cannot give. So don't be troubled or afraid."
+          }
+        }
+      },
+      "15": {
+        "verses": {
+          "5": {
+            "text": "I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing.",
+            "simplified_example": "Yes, I am the vine; you are the branches. Those who remain in me, and I in them, will produce much fruit. For apart from me you can do nothing."
+          },
+          "13": {
+            "text": "Greater love has no one than this, that someone lay down his life for his friends.",
+            "simplified_example": "There is no greater love than to lay down one's life for one's friends."
+          }
+        }
+      },
+      "16": {
+        "verses": {
+          "33": {
+            "text": "I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.",
+            "simplified_example": "I have told you all this so that you may have peace in me. Here on earth you will have many trials and sorrows. But take heart, because I have overcome the world."
+          }
+        }
+      }
+    },
+    "Acts": {
+      "1": {
+        "verses": {
+          "8": {
+            "text": "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.",
+            "simplified_example": "But you will receive power when the Holy Spirit comes upon you. And you will be my witnesses, telling people about me everywhere—in Jerusalem, throughout Judea, in Samaria, and to the ends of the earth."
+          }
+        }
+      }
+    },
+    "Romans": {
+      "3": {
+        "verses": {
+          "23": {
+            "text": "For all have sinned and fall short of the glory of God,",
+            "simplified_example": "For everyone has sinned; we all fall short of God's glorious 
